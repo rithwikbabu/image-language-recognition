@@ -5,6 +5,8 @@
 [Random Focused Text in Image](https://www.kaggle.com/code/kkhandekar/extract-text-from-images-tutorial-ocr/data)
 <br/>
 [Language Dataset](https://raw.githubusercontent.com/amankharwal/Website-data/master/dataset.csv)
+<br/>
+[Handwriting Dataset](https://www.kaggle.com/datasets/landlord/handwriting-recognition) *in use
 
 ## Building an OCR
 [Make an OCR from scratch Python](https://medium.com/geekculture/building-a-complete-ocr-engine-from-scratch-in-python-be1fd184753b)
