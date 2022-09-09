@@ -16,3 +16,6 @@
 
 ## Research Papers
 [Diacritic Character Recognition (accents)](https://journals.pan.pl/Content/119099/PDF/12_01819_Bpast.No.69(1)_13.01.21_K1_A.pdf)
+
+# Commands
+run ```pip3 install -r requirements.txt``` to install all required packages
