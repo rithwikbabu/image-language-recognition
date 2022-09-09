@@ -9,3 +9,6 @@
 
 ## Recognizing Traffic Signs
 [Traffic Sign Recognition](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
+
+## Research Papers
+[Diacritic Character Recognition (accents)](https://journals.pan.pl/Content/119099/PDF/12_01819_Bpast.No.69(1)_13.01.21_K1_A.pdf)
