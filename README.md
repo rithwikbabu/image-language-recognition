@@ -10,6 +10,7 @@
 
 ## Building an OCR
 [Make an OCR from scratch Python](https://medium.com/geekculture/building-a-complete-ocr-engine-from-scratch-in-python-be1fd184753b)
+<br/>
 [OCR](https://nanonets.com/blog/deep-learning-ocr/)
 
 ## Recognizing Traffic Signs
