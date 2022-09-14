@@ -6,6 +6,8 @@
 <br/>
 [Language Dataset](https://raw.githubusercontent.com/amankharwal/Website-data/master/dataset.csv)
 <br/>
+[MNIST Handwritten Digits Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+<br/>
 [Handwriting Dataset](https://www.kaggle.com/datasets/landlord/handwriting-recognition) *in use
 
 ## Building an OCR
