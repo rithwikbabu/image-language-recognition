@@ -6,10 +6,14 @@
 <br/>
 [Language Dataset](https://raw.githubusercontent.com/amankharwal/Website-data/master/dataset.csv)
 <br/>
+[MNIST Handwritten Digits Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+<br/>
 [Handwriting Dataset](https://www.kaggle.com/datasets/landlord/handwriting-recognition) *in use
 
 ## Building an OCR
 [Make an OCR from scratch Python](https://medium.com/geekculture/building-a-complete-ocr-engine-from-scratch-in-python-be1fd184753b)
+<br/>
+[OCR](https://nanonets.com/blog/deep-learning-ocr/)
 
 ## Recognizing Traffic Signs
 [Traffic Sign Recognition](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)
